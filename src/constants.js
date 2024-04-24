@@ -1,2 +1,2 @@
-//Database Name 
-export const DB_NAME ="videotube"
+//Database Name
+export const DB_NAME = 'videotube';
